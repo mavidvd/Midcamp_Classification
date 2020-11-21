@@ -1,5 +1,4 @@
-This is the README file for David Magraner's Week 5 Project at Ironhack Berlin. The project consists of generating a model for customer's credit card offer acceptance based on some features. 
-
+This is the README file for David Magraner's Week 5 Project at Ironhack Berlin. The project consists of generating a model for customer's credit card offer acceptance based on some features. We have had to visualize the data through EDA techniques such as Tableau's Dashboard, pre-process the dataset by removing nulls, rescaling the continuous variables and transforming string-type features to numerical for the model to be accurately estimated. We have used Classification Techniques such as Logistic Regression, K-Nearest Neighbours, Support Vector Machine, Decision Tree and Random Forest, to finally achieve an estimated sensitivity score of 81% on a severely imbalanced dataset. 
 
     
 | Files  | Description |
